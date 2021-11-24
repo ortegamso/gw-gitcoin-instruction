@@ -11,6 +11,14 @@
 ## Gitcoin Tasks
 
 0. [Setup a Local CKB Node and CKB Indexer for the Testnet](https://github.com/Kuzirashi/gw-gitcoin-instruction/blob/master/src/tasks/0.setup.node.and.indexer.md)
+
+#### 1.A screenshot of the console output from your local Testnet CKB Node after it has fully synchronized with the network.
+
+![task-0_1.png](./img/task-0_1.png)
+#### 2.A screenshot of the console output from your local CKB Indexer after it has fully synchronized with the local Testnet CKB Node.
+
+![task-0_2.png](./img/task-0_2.png)
+
 1. [Create a Godwoken Account on the EVM Layer 2 Testnet](https://github.com/Kuzirashi/gw-gitcoin-instruction/blob/master/src/tasks/1.create.godwoken.account.md)
 2. [Deploy a Simple Ethereum Smart Contract on Polyjuice](https://github.com/Kuzirashi/gw-gitcoin-instruction/blob/master/src/tasks/2.deploy.eth.contract.md)
 3. [Issue a Smart Contract Call to the Deployed Smart Contract](https://github.com/Kuzirashi/gw-gitcoin-instruction/blob/master/src/tasks/3.issue.contract.call.md)
