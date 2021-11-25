@@ -20,6 +20,19 @@
 ![task-0_2.png](./img/task-0_2.png)
 
 1. [Create a Godwoken Account on the EVM Layer 2 Testnet](https://github.com/Kuzirashi/gw-gitcoin-instruction/blob/master/src/tasks/1.create.godwoken.account.md)
+
+#### 1.A screenshot of the accounts you created (account list) in ckb-cli.
+
+![task-1_1.png](./img/task-1_1.png)
+
+#### 2.A link to the Layer 1 address you funded on the Testnet Explorer.
+
+https://explorer.nervos.org/aggron/address/ckt1qyq27uneyj39gmsuuft2u5cymn95vvtyh5wqjus9h0
+
+#### 3.A screenshot of the console output immediately after you have successfully submitted a deposit to Layer 2.
+
+![task-1_2.png](./img/task-1_2.png)
+
 2. [Deploy a Simple Ethereum Smart Contract on Polyjuice](https://github.com/Kuzirashi/gw-gitcoin-instruction/blob/master/src/tasks/2.deploy.eth.contract.md)
 3. [Issue a Smart Contract Call to the Deployed Smart Contract](https://github.com/Kuzirashi/gw-gitcoin-instruction/blob/master/src/tasks/3.issue.contract.call.md)
 4. [Issue an SUDT Token on Layer 1 and Deposit it to Layer 2](https://github.com/Kuzirashi/gw-gitcoin-instruction/blob/master/src/tasks/4.issue.sudt.deposit.md)
